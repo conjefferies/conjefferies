@@ -1,6 +1,6 @@
-##MSc Environmental Data Science student at the University of Leeds. Specialising in
+###MSc Environmental Data Science student at the University of Leeds. Specialising in
 geospatial analysis, remote sensing, and the application of machine learning to environmental systems.
-zndv0003@leeds.ac.uk | linkedin.com/in/yournam
+zndv0003@leeds.ac.uk
 
 <!--
 **conjefferies/conjefferies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
